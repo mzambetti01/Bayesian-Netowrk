@@ -1,0 +1,1 @@
+This was a small project done to create a Bayesian Network that played the role of a spam filter. Given an input of arrays with binary values, where each index represented a particular word and a 1 signifies if that work was in an email, this model correctly identifies spam or not with a 93.6% accuracy.
